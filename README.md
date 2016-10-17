@@ -1,2 +1,2 @@
 # testing-express_exercise
-in-class exercise of testing with Node and express apps
+[![Build Status](https://travis-ci.org/JohnDHamm/testing-express_exercise.svg?branch=master)](https://travis-ci.org/JohnDHamm/testing-express_exercise)
